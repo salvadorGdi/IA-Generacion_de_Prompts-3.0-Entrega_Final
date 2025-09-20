@@ -1,6 +1,5 @@
-https://colab.research.google.com/drive/1-QQCzBvM3h3GZMIysEQFwXPu1xbMvdNd#scrollTo=ryn0j-C5pdrj
+https://colab.research.google.com/drive/1yyVnDiTX2tAXDGPJEEeQiDtcN5PbmkHb#scrollTo=HLrU1eHmo9pq
 
-Aquí el link que posee la implementación del PDF adjuntado más arriba.
-En el último bloque de código se puede observar como se comparan dos metodologías de prompting, la más tradicional contra la metodología "Fast Prompting"
+Aquí el link del colab
 
-Seleccione el branch de la entrega final, para ver los cambios más recientes y acordes a la entrega solicitada.
+Seleccione el branch de la entrega final, para ver los cambios más recientes y acordes a la entrega solicitada (link actualizado)
